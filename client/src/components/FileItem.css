@@ -1,0 +1,17 @@
+/* FileItem.css */
+
+.file-item input {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.file-item button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.file-item button:hover {
+  background-color: #0056b3;
+}
